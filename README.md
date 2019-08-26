@@ -10,4 +10,4 @@ A modern looking, clean and responsive landing page for a bakery
 
 Link:
 
-https://kartoos47.github.io/mountain-travel/
+https://kartoos47.github.io/bakery-landing-page/
